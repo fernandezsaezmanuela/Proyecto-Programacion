@@ -5,5 +5,3 @@ links.forEach (link => {
         this.classList.add("activo");
     });
 });
-
-// cambio
